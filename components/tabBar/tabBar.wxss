@@ -1,0 +1,14 @@
+.tabBar_title {
+  display: flex;
+}
+.tabBar_titleitem {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  padding: 15rpx 0 ;
+}
+.active {
+  color: hotpink;
+  border-bottom: 5rpx solid currentColor;
+}
